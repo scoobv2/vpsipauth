@@ -1,5 +1,5 @@
 #& test-lifetime Lifetime 1.1.1.1
 ### test-expired 2022-01-07 8.8.8.8
 #& aws_v4.0 Lifetime 52.221.235.109
-#& aws_v5.0 Lifetime 13.214.135.223
+#& DO_v1.0 Lifetime 188.166.216.77
 
