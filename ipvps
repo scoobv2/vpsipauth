@@ -1,5 +1,6 @@
 #& test-lifetime Lifetime 1.1.1.1
 ### test-expired 2022-01-07 8.8.8.8
 #& aws_v1.0 Lifetime 54.151.132.77
+#& aws_v1.1 Lifetime 54.179.185.69
 #& DO_Ubuntu Lifetime 128.199.248.13
 
